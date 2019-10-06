@@ -13,6 +13,7 @@ _Demonstrates very basic html and practice at using source control from the term
 * _Open the html file in any browser_
 * _that is it_
 * _don't try too hard_
+* _or check it out directly on GitHub at https://sparklepop.github.io/sample-webpage/
 
 
 
